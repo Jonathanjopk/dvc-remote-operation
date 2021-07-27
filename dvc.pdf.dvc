@@ -1,0 +1,4 @@
+outs:
+- md5: 4eb60fd9a85471f03a769ebb1b056054
+  size: 4199246
+  path: dvc.pdf
